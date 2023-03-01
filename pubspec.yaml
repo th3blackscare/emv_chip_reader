@@ -36,11 +36,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   flutter_nfc_kit: ^3.3.1
-  tlv_decoder:
-    hosted:
-      url: https://dart.pkg.jetbrains.space/codelyticaleg/p/pos/tlvdecoder/
-      name: tlv_decoder
-    version: 1.0.0
+  intl:
 
 dev_dependencies:
   flutter_test:
